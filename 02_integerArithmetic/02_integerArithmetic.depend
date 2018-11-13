@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1536603592 source:s:\02_integerarithmetic\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+
